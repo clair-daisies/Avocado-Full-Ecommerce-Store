@@ -1,4 +1,7 @@
 "use strict";
+// Shopping Cart Functionalities
+
+// Product Display Swipper Functonalities
 let mainImg = document.getElementById("main-img");
 let smImg = document.querySelectorAll(".sm-img");
 let proItem = document.querySelectorAll(".product-item");
